@@ -16,5 +16,5 @@ public class DoubleChar {
         System.out.println(y.doubleChar("AAbb"));
         System.out.println(z.doubleChar("Hi-There"));
 
-        System.out.println("I am tying to find out how Git works");
+ 
     }}
