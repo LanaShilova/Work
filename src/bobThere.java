@@ -9,6 +9,5 @@ public class bobThere {
     public static void main (String [] args){
 bobThere x = new bobThere ();
     System.out.println(x.bobThere("b9b"));
-        System.out.println(x.bobThere("lalal"));
 }
 }
